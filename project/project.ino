@@ -1,3 +1,9 @@
+/*
+*   - Cronometru -
+*
+*    Autor: Maier Sergiu
+*/
+
 #include <LiquidCrystal.h>
 
 const byte RS = 11, EN = 12;
