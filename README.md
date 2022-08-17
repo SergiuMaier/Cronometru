@@ -2,7 +2,7 @@
 
 ### Descriere:
 
-Cronometru pornește/se oprește la apăsarea unui buton. Pentru a reseta cronometru se apasă celălalt buton.
+Cronometrul pornește/se oprește la apăsarea unui buton. Pentru a-l reseta se apasă celălalt buton.
 Timpul este afișat pe LCD.
 
 ### Componente:
