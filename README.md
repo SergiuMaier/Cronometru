@@ -1,6 +1,6 @@
 ## Cronometru
 
-### Descriere:
+### ⏱ Descriere:
 
 Cronometrul pornește/se oprește la apăsarea unui buton. Pentru a-l reseta se apasă celălalt buton.
 Timpul este afișat pe LCD.
