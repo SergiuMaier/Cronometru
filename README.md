@@ -1,4 +1,4 @@
-## Cronometru ⏱
+##⏱ Cronometru 
 
 ### Descriere:
 
